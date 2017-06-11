@@ -1,5 +1,6 @@
 # My components
 
+[![Build Status](https://travis-ci.org/xujihui1985/my-component.svg?branch=master)](https://travis-ci.org/xujihui1985/my-component)
 
 ## Install
 
